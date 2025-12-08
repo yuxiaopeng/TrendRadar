@@ -7,8 +7,13 @@
 小非农
 大非农
 英伟达
+NVIDA
 特斯拉
+Tesla
+TLS
 比特币
+Bitcoin
+BTC
 
 A股
 沪指
