@@ -1,4 +1,4 @@
-name: Hot News Crawler
+name: Trend
 on:
   schedule:
     # ⚠️ 重要提示：我们使用的是 GitHub 官方提供的资源来进行的推送，而每个账号的资源是限额的
